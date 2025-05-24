@@ -3,7 +3,7 @@
 ## 🟢 Easy Questions (1–30)
 
 1. Retrieve all documents in the collection.
-2. Retrieve the `business_name` of all businesses.
+2. Retrieve the `business_name` of all businesses.	
 3. Retrieve the `business_name` and `certificate_number` of all businesses.
 4. Find all businesses where the `result` is "Violation Issued".
 5. Find all businesses where the `result` is "No Violation Issued".
